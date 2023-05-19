@@ -1,0 +1,5 @@
+module ErrorMessage
+  INVALID_DATE = 'INVALID_DATE'.freeze
+  DUPLICATE_CATEGORY = 'DUPLICATE_CATEGORY'.freeze
+  DUPLICATE_TOPUP = 'DUPLICATE_TOPUP'.freeze
+end
